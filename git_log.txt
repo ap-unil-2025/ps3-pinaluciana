@@ -1,0 +1,6 @@
+b10b2a3 Personalize hello message
+91ad488 Add hello_git.py
+7398678 chore: initial setup with required files and .gitignore
+1afd450 Add my name and date
+7bcb689 Add GitHub Classroom autograding configuration
+2dc2daa Initial commit
