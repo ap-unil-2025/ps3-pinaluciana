@@ -82,7 +82,7 @@ def find_longest_word(filename):
     with open(filename, "r") as f:
         text = f.read()
     words = text.split()
-    lonfest = max(words, key=len)
+    longest = max(words, key=len)
     return longest
 
 
